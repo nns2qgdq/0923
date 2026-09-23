@@ -7,6 +7,15 @@
 ![Python](https://img.shields.io/badge/Python-3.14-yellow?style=flat-square&logo=python)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-blue?style=flat-square&logo=sqlite)
 ![CWA Open Data](https://img.shields.io/badge/Data-CWA%20O--A0003--001-orange?style=flat-square)
+[![Vercel Deployment](https://img.shields.io/badge/Deployment-Vercel%20Live-000000?style=flat-square&logo=vercel)](https://taiwan-weather-al3c1yv90-r1-3876.vercel.app/)
+
+---
+
+### 🌐 線上展示與系統預覽 (Live Demo)
+
+> **🚀 線上即時體驗網址**：[**https://taiwan-weather-al3c1yv90-r1-3876.vercel.app/**](https://taiwan-weather-al3c1yv90-r1-3876.vercel.app/)
+
+[![Taiwan Weather GIS Dashboard Preview](./public/dashboard_preview.png)](https://taiwan-weather-al3c1yv90-r1-3876.vercel.app/)
 
 ---
 
@@ -159,6 +168,8 @@ npm run dev
 ---
 
 ## 🌐 部署至 Vercel
+
+- **正式線上公開網址**：[https://taiwan-weather-al3c1yv90-r1-3876.vercel.app/](https://taiwan-weather-al3c1yv90-r1-3876.vercel.app/)
 
 本專案支援一鍵部署至 [Vercel](https://vercel.com/)：
 
