@@ -511,11 +511,11 @@ Taiwan Weather GIS
 -   [x] 建立 GitHub Repository (已初始化 Git 並關聯 remote origin: `https://github.com/nns2qgdq/0923.git`)
 -   [x] 完成 `.gitignore` (已妥善排除 `.env`, `.venv`, `node_modules`, `weather.db`, `.next`)
 -   [x] API Key 不存在 Git Repository (僅提交 `.env.example` 範本)
--   [ ] Vercel 連接 GitHub
--   [ ] 設定 Environment Variables
+-   [x] Vercel 連接 GitHub
+-   [x] 設定 Environment Variables
 -   [x] Production Build 成功 (`npm run build` 通過)
--   [ ] Web App 可公開存取
--   [ ] GitHub Push 後可自動重新部署
+-   [x] Web App 可公開存取 (`https://taiwan-weather-al3c1yv90-r1-3876.vercel.app/`)
+-   [x] GitHub Push 後可自動重新部署
 
 ------------------------------------------------------------------------
 
